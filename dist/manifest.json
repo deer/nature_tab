@@ -2,10 +2,11 @@
   "manifest_version": 3,
   "name": "Nature Tab",
   "description": "Displays beautiful nature images on new tabs.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
+  "default_locale": "en",
   "icons": {
     "32": "icons/32.png",
     "48": "icons/48.png",
